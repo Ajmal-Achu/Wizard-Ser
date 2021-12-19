@@ -6,9 +6,9 @@ thx to arif
 let handler  = async (m, { itsu, usedPrefix: _p }) => {
   m.reply(' ```Loading...``` ')
   let fs = require('fs')
-  let eror = 'https://i.imgur.com/sKzm7EK.jpeg'
+  let eror = 'https://telegra.ph/file/50beb3a1485c5853816a5.jpg'
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? eror : m.sender
-  let pp = 'https://i.imgur.com/0eDfjxn.jpeg'
+  let pp = 'https://telegra.ph/file/2114ab18f6b1a7181b683.jpg'
   try {
     pp = await itsu.getProfilePicture(who)
   } catch (e) {
