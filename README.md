@@ -72,6 +72,10 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ----|
    `Bug Fixes, Modules, Commits`
 
+[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+----|
+   `Bug Fixes, Modules`
+
 
                                   
   </div
