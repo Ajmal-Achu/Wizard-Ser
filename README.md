@@ -68,5 +68,10 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ----|
    `Bug Fixes, Modules, Commits`
 
+[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
+----|
+   `Bug Fixes, Modules, Commits`
+
+
                                   
   </div
