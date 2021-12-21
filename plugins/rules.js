@@ -1,5 +1,5 @@
 let fetch = require ('node-fetch')
-const pic = 'https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg'
+let handler = async (m, { conn }) => {
     let haruno = `┌ 「 Rules 」
 │ 🛂 Supervision by the owner
 │ ✅ Please comply
@@ -24,3 +24,8 @@ const pic = 'https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu
 `.trim()
     conn.fakeReply(m.chat, '*「 ⚠️ 」Loading...*', '0@s.whatsapp.net', '*RULES*')
     await conn.send2ButtonLoc(m.chat, await (await fetch("https://i.imgur.com/707WLbK.jpeg")).buffer(), haruno, '© Wizard-Ser', 'ᴍᴇɴᴜ', '.menu', 'ᴏᴡɴᴇʀ', '.owner', m)
+}
+handler.tags = ['main']
+handler.help = ['rules']
+handler.command = /^(rule)$/i
+module.exports = handler
