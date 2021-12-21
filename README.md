@@ -12,12 +12,12 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtube.com/channel/UCdtkZL6vnMU10Ow4EbtWJJw)
+[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
 
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCdtkZL6vnMU10Ow4EbtWJJw"><img src="https://i.imgur.com/OKo0osw.jpeg" />
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
 </p>
 
 -------
