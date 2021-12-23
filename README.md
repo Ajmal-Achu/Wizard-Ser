@@ -55,6 +55,10 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 ## Developers
   <div align="center">
+  
+  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+----|
+   `Base, Bug Fixes, Modules`
 
   [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
 ----|
