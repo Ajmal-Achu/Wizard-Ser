@@ -46,6 +46,9 @@
 ## `ADD BUILDPACK`
 
 ```
+heroku/nodejs
+```
+```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
