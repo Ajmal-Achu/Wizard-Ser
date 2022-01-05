@@ -1,9 +1,8 @@
 {
-  "name": "Wizard Ser",
-  "logo": "https://i.imgur.com/1PWx69w.jpeg",
+"name": "Wizard ser",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/DEVILSER/Ammu",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "repository": "https://github.com/DEVILSER/Wizard-ser",
+  "logo": "https://raw.githubusercontent.com/DEVILSER/Media/main/image/Wizard%20ser.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
@@ -22,12 +21,9 @@
 
         {
 
-            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
 
         }
 
     ]
 }
-
-
-
