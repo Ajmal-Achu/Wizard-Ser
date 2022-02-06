@@ -4,26 +4,4 @@
   "repository": "https://github.com/DEVILSER/Wizard-ser",
   "logo": "https://raw.githubusercontent.com/DEVILSER/Media/main/image/Wizard%20ser.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
-
-    "buildpacks": [
-
-        {
-
-            "url": "heroku/nodejs"
-
-        },
-
-        {
-
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-
-        },
-
-        {
-
-            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-
-        }
-
-    ]
 }
