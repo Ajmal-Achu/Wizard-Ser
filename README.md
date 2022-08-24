@@ -1,6 +1,6 @@
 # Wizard-Ser
 
-# MULTI-DEVICE VERSION COMMING SOON..........
+# MULTI-DEVICE VERSION COMING SOON..........
 
 
 <div align="center">
